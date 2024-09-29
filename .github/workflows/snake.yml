@@ -1,0 +1,40 @@
+name: Generate Snake
+
+on:
+  # Trigger the workflow every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # Trigger the workflow manually from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      # Generate the snake animation and save it to the 'output' folder
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: siwanetzu
+          output: github-contribution-grid-snake.svg
+
+      # Upload the result as an artifact
+      - name: Upload Snake
+        uses: actions/upload-artifact@v2
+        with:
+          name: contribution-snake
+          path: github-contribution-grid-snake.svg
+
+      # Automatically push the generated snake to the output branch
+      - name: Push Snake to Output
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Generated snake"
+          git push origin output
