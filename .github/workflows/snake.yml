@@ -13,19 +13,17 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-  # Install the correct Node.js version
+      # Install the correct Node.js version
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'  # You can set this to '18' or '20' as needed
-
+          node-version: '16'
 
       # Generate the snake animation
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: siwanetzu
-          output: github-contribution-grid-snake.svg
 
       # Commit and push the generated snake to the output branch
       - name: Commit the Snake
