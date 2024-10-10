@@ -33,13 +33,6 @@
     <img src="https://skillicons.dev/icons?i=python,html,github,figma,godot" />
 
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siwanetzu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siwanetzu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="center" height="250" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611sypxfpmdz6e3mnszeon9mk3jomoocl0uw71xxa49&ep=v1_gifs_search&rid=giphy.gif"  />
