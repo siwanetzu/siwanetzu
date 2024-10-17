@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Hirechain**
+ 🔭 Building **Hirechain**
  
  🌱 Learning **Python, GDScript, C#**
 
