@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Hirechain**
  
- 🌱 Learning **Python, Godot, C#**
+ 🌱 Learning **Python, GDScript, C#**
 
 💬 Don't ask me anything, I'm a noob
 
