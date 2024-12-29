@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 Building **Hirechain**
+ 🔭 Building **Hirechain**, playing around with **AI Agents**, **gamedev** and **Solana dApps**
  
- 🌱 Learning **Python, GDScript, C#**
+ 🌱 Learning **Python, GDScript, Typescript, C#**
 
 💬 Don't ask me anything, I'm a noob
 
@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,github,figma,godot" />
+    <img src="https://skillicons.dev/icons?i=python,html,github,figma,godot,react,aws,gcp" />
 
 
 ###
