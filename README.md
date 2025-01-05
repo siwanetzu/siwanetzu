@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,github,figma,godot,react,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=python,html,github,figma,godot,react,aws,gcp" /> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siwanetzu&layout=compact)
 
 
 ###
@@ -50,4 +50,4 @@
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siwanetzu&layout=compact)
+
