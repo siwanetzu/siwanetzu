@@ -37,7 +37,20 @@
 
 <img align="center" height="250" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611sypxfpmdz6e3mnszeon9mk3jomoocl0uw71xxa49&ep=v1_gifs_search&rid=giphy.gif"  />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siwanetzu&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siwanetzu&layout=compact&theme=dark)
+import matplotlib.pyplot as plt
+
+# Data (replace with your own data)
+languages = ['Python', 'JavaScript', 'HTML', 'CSS', 'Other']
+usage = [50, 30, 10, 5, 5]
+
+# Create a pie chart
+plt.figure(figsize=(6, 6))
+plt.pie(usage, labels=languages, autopct='%1.1f%%', startangle=140)
+plt.title('Most Used Languages')
+plt.savefig('languages_pie_chart.png', transparent=True)  # Save with a transparent background
+plt.show()
+
 
 <br/>
 <hr/>
