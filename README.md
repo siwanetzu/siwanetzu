@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 Building **Hirechain**, playing around with **AI Agents**, **gamedev** and **Solana dApps**
+ 🔭 Building **Hirechain**, playing around with **AI Agents**, **gamedev** and **V0**
  
  🌱 Learning **Python, GDScript, Typescript, C#**
 
