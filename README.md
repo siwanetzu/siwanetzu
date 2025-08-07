@@ -8,11 +8,13 @@
 
 <div align="center">
  
- 🔭 Building **Hirechain**, playing around with **AI Agents**, **gamedev** and **V0**
+ 🔭 Building **Hirechain**, playing around with **gamedev**
  
- 🌱 Learning **Python, GDScript, Typescript, C#**
+ 🌱 Learning **Python, GDScript, Javascript and C#**
 
-💬 Don't ask me anything, I'm a noob
+💬 Don't ask me anything, I'm a noob.
+
+❤️ I love modular architecture, building reusable systems, and pixel art.
 
  </div>
 
