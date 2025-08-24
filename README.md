@@ -29,8 +29,10 @@
 <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,csharp,html,react,vite,threejs,godot,figma,aws,gcp,github" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,vite,threejs,godot,npm,git,github,windows" />
 </div>
+<br/>
+<hr/>
 
 <br/>
 <hr/>
