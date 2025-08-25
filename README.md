@@ -14,7 +14,6 @@
 
   ❤️ I'm passionate about modular architecture, reusable systems, and the magic of pixel art.
 
-  💬 Ask me about **Web3, React, or Game Design** - I'm always happy to chat and learn together!
 
 </div>
 
