@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  🔭 I’m currently building **[Hirechain](https://hirechain.io/)**, a web3 hiring platform.
+  🔭 I’m building **[Hirechain](https://hirechain.io/)**, a web3 hiring platform.
   
   🚀 I'm also diving into **Game Development**, creating immersive ARPG with Godot.
 
